@@ -1,5 +1,3 @@
-# spray
-
 
 # DIY Natural Deodorant Project Overview
 
@@ -20,16 +18,16 @@ To create a natural, skin-safe deodorant inspired by high-quality commercial for
 - **Benzoic Acid:** Preservative – 4 oz from MakingCosmetics.
 
 ### Essential Oils for Fragrance & Antimicrobial Action:
-- **Lavender Essential Oil:** 10 ml from Plant Therapy.
-- **Tea Tree Essential Oil:** 10 ml from Plant Therapy.
-- **Cedarwood Essential Oil:** 10 ml from Plant Therapy.
-- **Patchouli Essential Oil:** 10 ml from Plant Therapy.
-- **Eucalyptus Essential Oil:** 10 ml from Plant Therapy.
-- **Clove Essential Oil:** 10 ml from Plant Therapy.
-- **Vetiver Essential Oil:** 5 ml from Plant Therapy.
-- **Coriander Seed Essential Oil:** 10 ml from Plant Therapy.
-- **Lemongrass Essential Oil:** 10 ml from Plant Therapy.
-- **Thyme Essential Oil:** 10 ml from Plant Therapy.
+- **Cedarwood Essential Oil:** 0.4 ml (Woody base)
+- **Patchouli Essential Oil:** 0.3 ml (Earthy base)
+- **Vetiver Essential Oil:** 0.2 ml (Deep, earthy tone)
+- **Thyme Essential Oil:** 0.2 ml (Herbaceous) 
+- **Lavender Essential Oil:** 0.2 ml (Balancing, slight floral)
+- **Tea Tree Essential Oil:** 0.1 ml (Herbaceous, antimicrobial)
+- **Eucalyptus Essential Oil:** 0.1 ml (Fresh, herbal)
+- **Clove Essential Oil:** 0.1 ml (Warm, spicy undertone)
+- **Coriander Seed Essential Oil:** 0.1 ml (Fresh, green tone)
+- **Lemongrass Essential Oil:** 0.1 ml (Bright, slightly citrusy)
 
 ### Additional Tools & Supplies:
 - Digital scale
@@ -53,19 +51,7 @@ To create a natural, skin-safe deodorant inspired by high-quality commercial for
 - **Aminomethyl Propanol:** 1% (1 g)
 - **Citric Acid:** 0.5% (0.5 g)
 - **Benzoic Acid:** 0.5% (0.5 g)
-- **Essential Oil Blend:** 1.5% - 2% (1.5 - 2 ml total)
-
-### Essential Oil Blend Breakdown:
-- **Lavender:** 0.3 ml
-- **Tea Tree:** 0.2 ml
-- **Cedarwood:** 0.2 ml
-- **Patchouli:** 0.2 ml
-- **Eucalyptus:** 0.1 ml
-- **Clove:** 0.1 ml
-- **Vetiver:** 0.1 ml
-- **Coriander Seed:** 0.1 ml
-- **Lemongrass:** 0.1 ml
-- **Thyme:** 0.1 ml
+- **Essential Oil Blend:** 2% (2 ml total)
 
 ---
 
@@ -113,5 +99,4 @@ To create a natural, skin-safe deodorant inspired by high-quality commercial for
 ---
 
 By following these steps, you’ll create a high-quality, all-natural deodorant customized to your skin’s needs while ensuring maximum efficacy and safety.
-
 
